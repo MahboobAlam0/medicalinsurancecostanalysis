@@ -39,8 +39,3 @@ The primary goal is to develop a predictive model that estimates medical insuran
 - Incorporating additional features such as medical history and lifestyle habits for more accurate predictions.
 - Exploring advanced machine learning algorithms and hyperparameter tuning to improve model performance.
 - Developing a user-friendly web application to provide real-time insurance cost predictions.
-
----
-
-*Note: This project is inspired by similar works in the field of medical insurance cost prediction, such as those by [Sahil Chachra](https://github.com/SahilChachra/Medical-Cost-Prediction) and [adiag321](https://github.com/adiag321/Medical-Insurance-Cost-Prediction).*
-
